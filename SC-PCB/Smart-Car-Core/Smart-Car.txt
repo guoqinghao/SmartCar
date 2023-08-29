@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\HaGoq\Desktop\SmartCar\µçÂ·\Smart-Car-Core\Smart-Car-Core\Smart-Car.PcbDoc
+Date         : 2023/8/26
+Time         : 10:23:18
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3864.449milsx1894.794mils
+    Components on board, 161
+count : 2
